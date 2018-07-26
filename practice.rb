@@ -1,2 +1,3 @@
-puts "Hello World"
-print "Hello World"
+puts "What is your name"
+  gets
+  
